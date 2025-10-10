@@ -50,13 +50,13 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/gabrielminegl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielminegl&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielminegl&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="http://www.linkedin.com/in/gabriel-guedes-de-oliveira-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
