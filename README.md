@@ -1,57 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 I'm Gabriel Guedes
 
-###
+Software Engineering Student & Aspiring Full-Stack Developer from Manaus, Brazil. 🇧🇷
 
-<p align="left">My name is Gabriel and I'm an aspiring Web Developer, from Manaus.</p>
+---
 
-###
+### 🚀 About Me
 
-<h2 align="left">About me</h2>
+- 🔭 **Goals:** Currently seeking my first IT internship to apply my knowledge in Java and TypeScript.
+- 🌱 **Learning:** Deepening my skills in Spring Boot, Angular, and Oracle Cloud (OCI).
+- 🎓 **Education:** 4th semester of Software Engineering.
 
-###
+### 🛠️ Tech Stack
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java<br>🎯 Goals: Become a Web Developer</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,js,html,css,tailwind,postgres,docker,git,obsidian" />
+</p>
 
-###
+### 📫 Connect with me
 
-<h2 align="left">I code with</h2>
+<p align="left">
+<a href="mailto:gabriel.guedes.oc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"></a>
+<a href="https://linkedin.com/in/gabriel-guedes-de-oliveira-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5"></a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabaes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="http://www.linkedin.com/in/gabriel-guedes-de-oliveira-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabaes&layout=compact&theme=tokyonight" />
+</p>
